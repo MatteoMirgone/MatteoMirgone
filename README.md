@@ -22,7 +22,7 @@ I grew up across six countries, hold dual EU/US citizenship, and work in four la
 |---|---|---|---|
 | **Carbon Intensity of Electricity — Cross-country OLS** | Energy · Econometrics | Python · statsmodels · HC3 robust SE | [`carbon-intensity-regression`](../../carbon-intensity-regression) |
 | **AI Impact Analysis — 191K news articles, 2022–2026** | NLP at scale | BERTopic · DistilBERT fine-tuning · spaCy NER | *coming soon* |
-| **WELFake Fake News Detection** | Applied ML | scikit-learn · Ridge Classifier · text pipelines | *coming soon* |
+| **WELFake Fake News Detection** | Applied ML | scikit-learn · Ridge Classifier · text pipelines | [`welfake-fake-news-detection`](../../welfake-fake-news-detection) |
 | **CTA Ridership Forecasting** | Time series | SARIMA · GARCH · Prophet · LSTM | [`cta-ridership-forecasting`](../../cta-ridership-forecasting) |
 | **HERE Places: Customer Issue Management** | LLM agents | RAG · evaluation · workflow automation | *in progress* |
 
